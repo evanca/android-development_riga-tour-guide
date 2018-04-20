@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="item_layout_margin_8dp">8dp</dimen>
+    <dimen name="item_layout_margin_16dp">16dp</dimen>
+    <dimen name="list_item_image_108dp">108dp</dimen>
+    <dimen name="list_item_arrow_36dp">36dp</dimen>
+    <dimen name="name_text_22sp">22sp</dimen>
+    <dimen name="distance_text_18sp">18sp</dimen>
+    <dimen name="landmark_large_image_300dp">300dp</dimen>
+    <dimen name="toolbar_height_32dp">32dp</dimen>
+</resources>

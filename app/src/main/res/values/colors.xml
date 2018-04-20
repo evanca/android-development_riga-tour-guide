@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="sightsBackground_light">#F5F5F6</color>
+    <color name="diningBackground_light">#F5F4F5</color>
+    <color name="languageBackground_light">#F5F3F5</color>
+    <color name="insidersBackground_light">#F5F2F5</color>
+
+    <color name="closeDistance_blue">#83A7FF</color>
+    <color name="distance_gray">#ACAFC0</color>
+    <color name="enable_gps">#cdcfd9</color>
+    <color name="item_name_gray">#2A2A36</color>
+    <color name="icon_directions">#7DA0F4</color>
+    <color name="icon_phone">#FECC90</color>
+    <color name="icon_website">#DEDAED</color>
+    <color name="tab_indicator_color">#e6eaf4</color>
+    <color name="landmark_name_color">#2A2A36</color>
+</resources>

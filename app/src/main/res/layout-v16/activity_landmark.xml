@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/main_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <!-- Making up button overlay the image -->
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/image"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/landmark_large_image_300dp"
+                android:layout_alignParentLeft="true"
+                android:scaleType="centerCrop"
+                android:layout_alignParentStart="true" />
+
+            <android.support.v7.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/toolbar_height_32dp"
+                android:background="@android:color/transparent"
+                android:theme="@style/ThemeOverlay.AppCompat.ActionBar"
+                app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
+
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/name_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/item_layout_margin_16dp"
+            android:fontFamily="@font/titillium_web"
+            android:gravity="end"
+            android:textAppearance="?android:textAppearanceLarge"
+            android:textColor="@color/landmark_name_color"
+            tools:text="Riga Dome Cathedral" />
+
+        <TextView
+            android:id="@+id/description_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/item_layout_margin_16dp"
+            android:fontFamily="@font/titillium_web"
+            android:gravity="end"
+            android:textAppearance="?android:textAppearanceMedium"
+            tools:text="The foundation stone of Riga Dome Cathedral was laid on July 25, 1211. The last large-scale restoration took place in the late 19th century when the cathedral acquired its present appearance. Today, Riga Dome Cathedral holds services and provide for rich cultural life — various concerts of popular artists take place here. Riga Dome Cathedral was the central cathedral in the Baltics until Livonia fell to the Grand Duchy of Lithuania in 1561. It has Romanesque, early Gothic, Baroque, and Art Nouveau features and is considered the largest Medieval church in Latvia and the Baltic States." />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="@dimen/item_layout_margin_16dp"
+            android:layout_marginVertical="@dimen/item_layout_margin_8dp"
+            tools:ignore="UseCompoundDrawables">
+
+            <ImageView
+                android:layout_width="@dimen/toolbar_height_32dp"
+                android:layout_height="@dimen/toolbar_height_32dp"
+                android:src="@drawable/ic_map_black_24dp"
+                android:tint="@color/icon_directions"
+                tools:ignore="ContentDescription" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom"
+                android:layout_marginLeft="@dimen/item_layout_margin_8dp"
+                android:autoLink="phone"
+                android:fontFamily="@font/titillium_web"
+                android:onClick="getDirections"
+                android:text="@string/get_directions"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:textColor="@color/item_name_gray"
+                android:textColorLink="@color/item_name_gray"
+                android:layout_marginStart="@dimen/item_layout_margin_8dp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="@dimen/item_layout_margin_16dp"
+            tools:ignore="UseCompoundDrawables">
+
+            <ImageView
+                android:layout_width="@dimen/toolbar_height_32dp"
+                android:layout_height="@dimen/toolbar_height_32dp"
+                android:src="@drawable/ic_local_phone_black_24dp"
+                android:tint="@color/icon_phone" />
+
+            <TextView
+                android:id="@+id/phone_text_view"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom"
+                android:layout_marginLeft="@dimen/item_layout_margin_8dp"
+                android:autoLink="phone"
+                android:fontFamily="@font/titillium_web"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:textColor="@color/item_name_gray"
+                android:textColorLink="@color/item_name_gray"
+                tools:text="67227573"
+                android:layout_marginStart="@dimen/item_layout_margin_8dp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/item_layout_margin_16dp"
+            android:layout_marginHorizontal="@dimen/item_layout_margin_16dp"
+            android:layout_marginTop="@dimen/item_layout_margin_8dp"
+            tools:ignore="UseCompoundDrawables">
+
+            <ImageView
+                android:layout_width="@dimen/toolbar_height_32dp"
+                android:layout_height="@dimen/toolbar_height_32dp"
+                android:src="@drawable/ic_web_black_24dp"
+                android:tint="@color/icon_website" />
+
+            <TextView
+                android:id="@+id/website_text_view"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom"
+                android:layout_marginLeft="@dimen/item_layout_margin_8dp"
+                android:autoLink="web"
+                android:fontFamily="@font/titillium_web"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:textColor="@color/item_name_gray"
+                android:textColorLink="@color/item_name_gray"
+                tools:text="www.doms.lv"
+                android:layout_marginStart="@dimen/item_layout_margin_8dp" />
+        </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>

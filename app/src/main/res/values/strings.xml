@@ -1,0 +1,168 @@
+<resources>
+    <string name="app_name">Riga Tour Guide</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <!-- Sights strings START -->
+    <string name="name_s001">Art Nouveau</string>
+    <string name="description_s001">Riga experienced its golden age in the early 20th century just as Art Nouveau architecture was coming into fashion, and so the city has one of the world’s richest collections of this exuberant style. There are over 800 amazing Art Nouveau structures throughout the city, but the greatest concentration is on Alberta iela, a street largely built in a flurry of creativity by a single architect, Mikhail Eisenstein.</string>
+    <string name="website_s001">www.jugendstils.riga.lv</string>
+
+    <string name="name_s002">Central Market</string>
+    <string name="description_s002">For a shopping experience like no other, head to Riga’s Central Market. One of the largest markets in Europe, the vast territory is dominated by five zeppelin hangars filled with cheese, fish, smoked meat, honey, fresh fruit and vegetables and lots more superb seasonal produce. The atmosphere is friendly and filled with local colour.</string>
+    <string name="website_s002">www.rct.lv</string>
+
+    <string name="name_s003">Blackheads House</string>
+    <string name="description_s003">The House of the Blackheads has for almost 700 years been delighting Riga residents and guests. This is one of the most colorful buildings in Riga, which contains a very unique historical legacy about the legendary brotherhood of the Blackheads, as well as the history of the Latvian capital. The House of the Blackheads, originally called the New House, was built in 1334. It has been reconstructed several times from 1522, when stones where set next to the doors, to the late-19th century, when lion figures where set above the front doors and St. George\'s figure appeared in the annex.</string>
+    <string name="website_s003">www.melngalvjunams.lv</string>
+
+    <string name="name_s004">Elizabetes</string>
+    <string name="description_s004">One of the most impressive examples of early Art Nouveau can be seen at 10b Elizabetes Street - a building designed by Mikhail Eisenstein, the father of cinema genius Sergei Eisenstein. It was built in 1903. The building has an extraordinarily colourful facade. Note the composition of masks, peacocks, sculptural elements and geometrical figures, as well as the bright blue tile covering on the upper levels of the building. The facade was designed by copying and complementing drawings by two Leipzig architects, Georg Wünschmann and Hans Kozel which were first published in a collection of facade drawings in Saint Petersburg.</string>
+    <string name="website_s004">www.jugendstils.riga.lv</string>
+
+    <string name="name_s005">Riga Dome Cathedral</string>
+    <string name="description_s005">The foundation stone of Riga Dome Cathedral was laid on July 25, 1211. The last large-scale restoration took place in the late 19th century when the cathedral acquired its present appearance. Today, Riga Dome Cathedral holds services and provide for rich cultural life — various concerts of popular artists take place here. Riga Dome Cathedral was the central cathedral in the Baltics until Livonia fell to the Grand Duchy of Lithuania in 1561. It has Romanesque, early Gothic, Baroque, and Art Nouveau features and is considered the largest Medieval church in Latvia and the Baltic States.</string>
+    <string name="website_s005">www.doms.lv</string>
+
+    <string name="name_s006">Freedom Monument</string>
+    <string name="description_s006">The Freedom Monument has been Riga\'s central landmark for almost a century. This 42.7 m tall granite and copper work of art is a symbol of the Latvian nation\'s striving for freedom and independence. The woman on top of the monument is holding up three golden stars, which represent Latvia\'s historical regions of Kurzeme, Vidzeme, and Latgale. The motto "For the Fatherland and Freedom" is inscribed upon the base. It was unveiled on 18 November 1935 and financed entirely from public donations.</string>
+    <string name="website_s006">www.latvia.travel</string>
+
+    <string name="name_s007">St. Peter\'s Church</string>
+    <string name="description_s007">Riga\'s St.Peter\'s Church dominates the cityscape as the tallest spire, and as one of the oldest and most valuable monumental architecture edifices in the Baltic States from the Middle Ages. St.Peter\'s is the tallest of the Riga churches, a significant landmark, and a prime example of the 13th century Gothic style.</string>
+    <string name="website_s007">www.peterbaznica.riga.lv</string>
+
+    <string name="name_s008">National Opera</string>
+    <string name="description_s008">The birthplace of stars from dancer Mikhail Baryshnikov to diva Elīna Garanča, Riga is a city with a musical soul. Nowhere is this better showcased than the Latvian National Opera and Ballet, a magnificent neo classical building dating from 1882 in the heart of town. Attend a performance, take a guided tour behind the scenes, and on a sunny day relax by the Opera Nymph fountain and enjoy the beautiful opera gardens.</string>
+    <string name="website_s008">www.opera.lv</string>
+    <!-- Sights strings END -->
+
+    <!-- Dining strings START -->
+    <string name="name_d001">Bibliotēka №1</string>
+    <string name="description_d001">One of the best restaurants of contemporary Latvian cuisine in Riga. Exquisite interior, skilful cuisine nuanced with various tastes and thought-out range of Italian wines. A place where to grasp the pulse of Riga from aside and enjoy a skillfully prepared meal.</string>
+    <string name="website_d001">www.restoransbiblioteka.lv</string>
+
+    <string name="name_d002">Elements</string>
+    <string name="description_d002">The restaurant "Elements" is located just a five-minute walk from the Central Railway Station, or 15-minute walk from the Monument of Freedom — in the premises of "Tallink Hotel Riga". The special offer of "Elements" — guests themselves can prepare tiger prawns or duck breast on hot stones! Restaurant staff will show what and how to do, so that guests can cook a memorable meal themselves.</string>
+    <string name="website_d002">www.tallinkhotels.com</string>
+
+    <string name="name_d003">Kaļķu vārti</string>
+    <string name="description_d003">An opportunity to open the gate to a journey into the world of meals accompanied by the play of flavours and tastes of healthy and natural products revealing the mysteries of culinary traditions of various cultures. It offers a feast that may allure, surprise and satisfy, at the same time also revealing unknown aspects of the well known things. It is an offer one can enjoy during the business lunch or when relaxing at night.</string>
+    <string name="website_d003">www.kalkuvarti.lv</string>
+
+    <string name="name_d004">Lido Recreation Centre</string>
+    <string name="description_d004">Thanks to its uniqueness, the Lido Leisure Centre is one of the most popular places for local people and Riga guests. The main building of the centre is one of the largest and most beautiful log buildings in Europe, which can host 1000 guests.</string>
+    <string name="website_d004">www.lido.lv</string>
+
+    <string name="name_d005">Olive Oil</string>
+    <string name="description_d005">A cosy, small Italian restaurant with an excellent cuisine. It can be found at Pils laukums 4, near a park and opposite to the Riga Castle. This is the quieter part of the Old Town, a great place to hide from the crowd while still in the distance of a two minute slow walk from the Doma Square. The restaurant has a vast terrace with a view on a park and the Riga Castle during the summer.</string>
+    <string name="website_d005">www.oliveoil.lv</string>
+
+    <string name="name_d006">Steiku Haoss Audēju</string>
+    <string name="description_d006">Steiku Haoss trademark is outstandingly roasted steak and the Wild West atmosphere. In the restaurants you can taste 17 different kinds of steaks – tenderloin, strip loin, lamb, pork, poultry, all of which are cooked using only natural spices. To enrich steaks flavor choose different kind of side dishes, mellow wine or fresheners.</string>
+    <string name="website_d006">www.steikuhaoss.lv</string>
+
+    <string name="name_d007">The Three Chefs</string>
+    <string name="description_d007">The restaurant, which recently celebrated its 5th anniversary with an interior makeover, is a restaurant with the open plan kitchen, beloved by citizens and admired by guests of our city. It was founded in September 2011 by two well-known Latvian chefs - Mārtiņš Sirmais and Ēriks Dreibants. The third - Artūrs Trinkuns - is a young, enthusiastic and very promising chef. At the moment he is responsible for product selection, cooperation with farmers and looks after everyday work in kitchen.</string>
+    <string name="website_d007">www.3pavari.lv</string>
+
+    <string name="name_d008">Valter\'s Restaurant</string>
+    <string name="description_d008">It is worth visiting Valter\'s restaurant if you wish to enjoy the atmosphere and hospitality of the Latvian countryside, as well as dishes of the Latvian cuisine cooked of seasonal products. Here, in a peaceful atmosphere, you can savour delicious courses of the contemporary Latvian cuisine.</string>
+    <string name="website_d008">www.valterarestorans.lv</string>
+
+    <string name="name_d009">Vincents</string>
+    <string name="description_d009">Since it opened in 1994, Vincents has become the prime destination for all those passionate about good food and fine wine. Vincents is located in one of the most picturesque parts of Riga, surrounded by Art Nouveau buildings. The modern interior forms the backdrop for chef Aleksandrs Nasikailovs\’ inspired &amp; constantly evolving cuisine.</string>
+    <!-- Dining strings END -->
+
+    <!-- Insiders strings START -->
+    <string name="about_insiders_toast">Our insider\'s list of places where you will find one-of-a-kind sights and foods that locals love!</string>
+
+    <string name="name_i001">🍴 Rozengrāls</string>
+    <string name="description_i001">The restaurant is located in the centre of Old Riga on the Rozena Street. These premises were mentioned in the scripts in 1293 as the most ancient wine-vault and festival place of the Riga City Council. In a medieval atmosphere at the same time we will be able to regale 150 guests with exquisite dishes prepared according to old recipes.</string>
+    <string name="website_i001">www.rozengrals.lv</string>
+
+    <string name="name_i002">🍴 Arbooz Cafe</string>
+    <string name="description_i002">It was summer of 2013 when arbOOz bakery first opened its doors to meet and greet the first customers. Although originally planned as a small boutique cafe, specializing just in hand-made macarons, cakes and cupcakes, it soon has become a hotspot for city’s desserts connoisseurs. In just a few months after opening, arbOOz was chosen as one of the 12 brands representing Riga – European Capital of Culture 2014 for the travelling exhibition organized by the Ministry of Foreign Affairs of Latvia.</string>
+    <string name="website_i002">www.arbooz.lv</string>
+
+    <string name="name_i003">Latvian Academy of Sciences</string>
+    <string name="description_i003">Latvian Academy of Sciences observation deck offers Riga guests and local residents to have a breath-taking view of Riga\'s Old Town and the Daugava River from the building\'s 17th-floor balcony at the height of 65 metres.</string>
+    <string name="website_i003">www.lza.lv</string>
+
+    <string name="name_i004">Daugavgrīva Lighthouse</string>
+    <string name="description_i004">Daugavgrīva Lighthouse (Latvian: Daugavgrīvas bāka) is a lighthouse located in Daugavgrīva on the Bay of Riga on the Latvian coast of the Baltic Sea. The lighthouse was built in 1956, located next to Daugava River. Due to the change in the river\'s course, several lighthouses have been built, destroyed, and rebuilt again over the course of history.</string>
+    <string name="website_i004">https://en.wikipedia.org/wiki/Daugavgr%C4%ABva_Lighthouse</string>
+
+    <string name="name_i005">Stone Garden</string>
+    <string name="description_i005">In the 1970s, sculptor Indulis Ranka got permission from the Soviet government to set up both a stone sculpture exhibition park as well as a workshop to help familiarize people with stone processing. There is currently a community effort to try to reach out to the different artists who made the statues here to be able to create informational plaques that inform visitors who made each statue and what they meant, but many of them are still a mystery as of now.</string>
+    <string name="website_i005">www.latvia.travel</string>
+
+    <string name="name_i006">🍴 Raunas Dārzs</string>
+    <string name="description_i006">Raunas Dārzs opened as a small farmers grocery store in a quiet Riga neighbourhood and now they have people coming from all over the town and buying boxes of eclairs. More than 20 different kinds of eclairs are made of organic ingredients from their own farm or other local farmers.</string>
+    <string name="website_i006">https://bit.ly/2qteFXK</string>
+
+    <string name="name_i007">Kalnciema Quarter Market</string>
+    <string name="description_i007">The traditional farmer and artisan market takes place throughout the year – every Saturday, 10:00 – 16:00. During December the market is also open on Sundays. The farm produce, arts and crafts market is a long-standing tradition at Kalnciema Quarter, offering the citizens and visitors of Riga exquisite local products made by farmers, artisans and designers.</string>
+    <string name="website_i007">www.kalnciemaiela.lv</string>
+
+    <string name="name_i008">🍴 Street Fries Kitchen</string>
+    <string name="description_i008">What began as a tiny street kiosk has evolved into a small bistro serving a wide variety of pancakes, fried snacks, eggs cooked to order, sandwiches and, of course, its speciality – Belgian-style pommes frites, French fries, chips or whatever you prefer calling deep-fried potatoes. The interior is modern, yet playful and includes colourful furniture, hardwood floors and lots of white tile on the walls. A kids’ table offers games and toys, but adults can sample a dozen or so beers in bottles from around the globe. Try the flap jacks with maple syrup.</string>
+    <string name="website_i008">www.streetfries.lv</string>
+    <!-- Insiders strings END -->
+
+    <!-- Language strings START -->
+    <string name="lang_default_001">Hello</string>
+    <string name="lang_local_001">Sveiki</string>
+
+    <string name="lang_default_002">Thank you</string>
+    <string name="lang_local_002">Paldies</string>
+
+    <string name="lang_default_003">What\'s your name?</string>
+    <string name="lang_local_003">Kā Jūs sauc?</string>
+
+    <string name="lang_default_004">My name is …</string>
+    <string name="lang_local_004">Mani sauc …</string>
+
+    <string name="lang_default_005">Pleased to meet you</string>
+    <string name="lang_local_005">Priecājos ar Jums iepazīties</string>
+
+    <string name="lang_default_006">How are you?</string>
+    <string name="lang_local_006">Kā Jums klājas?</string>
+
+    <string name="lang_default_007">Good morning</string>
+    <string name="lang_local_007">Labrīt</string>
+
+    <string name="lang_default_008">Good afternoon</string>
+    <string name="lang_local_008">Labdien</string>
+
+    <string name="lang_default_009">Good evening</string>
+    <string name="lang_local_009">Labvakar</string>
+
+    <string name="lang_default_010">Goodbye</string>
+    <string name="lang_local_010">Uz redzēšanos</string>
+
+    <string name="lang_default_011">Excuse me</string>
+    <string name="lang_local_011">Piedodiet</string>
+
+    <string name="lang_default_012">How do you say … in Latvian?</string>
+    <string name="lang_local_012">Kā latviešu valodā būs …?</string>
+
+    <string name="phone_code">+371</string>
+
+    <string name="category_sights">Sights</string>
+    <string name="category_dining">Dining</string>
+    <string name="category_phrases">Phrases</string>
+    <string name="category_insiders">Insiders</string>
+
+    <string name="get_directions"><u>Get directions</u></string>
+
+
+    <string name="distance_string">Distance: </string>
+    <string name="km"> km</string>
+
+    <string name="permission_rationale">Location permission is needed for functionality</string>
+    <string name="permission_denied_explanation">Permission denied, please make sure location is enabled.</string>
+    <string name="settings">Settings</string>
+    <string name="Please_enable_GPS">Please enable GPS</string>
+
+</resources>
