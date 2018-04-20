@@ -4,7 +4,9 @@ P5 "Tour Guide App"
 Tested on Nexus 5X emulator / API level 27 (portrait mode) <br>
 GPS tested on Xiaomi Redmi Note 4 (portrait mode) 
 
-![image]
+![image](https://github.com/evanca/ABND_P5_Riga-Tour-Guide/blob/master/2018-04-Android%20Emulator%20-%20Nexus_5X_API_27_5554_ABND_P5_L.jpg)
+
+![image](https://github.com/evanca/ABND_P5_Riga-Tour-Guide/blob/master/2018-04-Android%20Emulator%20-%20Nexus_5X_API_27_5554_ABND_P5_B.jpg)
 
 #### Project Overview: ##### 
 
