@@ -43,15 +43,15 @@ public class DiningFragment extends Fragment {
         getLocation();
 
         final ArrayList<Landmark> landmarks = new ArrayList<>();
-        landmarks.add(new Landmark(R.string.name_d001, R.string.description_d001, R.raw.d001, 56.95185, 24.117, 20225000, R.string.website_d001));
-        landmarks.add(new Landmark(R.string.name_d002, R.string.description_d002, R.raw.d002, 56.94882, 24.12259, 67099763, R.string.website_d002));
-        landmarks.add(new Landmark(R.string.name_d003, R.string.description_d003, R.raw.d003, 56.94976, 24.11024, 67224576, R.string.website_d003));
-        landmarks.add(new Landmark(R.string.name_d004, R.string.description_d004, R.raw.d004, 56.9272, 24.16021, 67504420, R.string.website_d004));
-        landmarks.add(new Landmark(R.string.name_d005, R.string.description_d005, R.raw.d005, 56.95108, 24.10241, 29533523, R.string.website_d005));
-        landmarks.add(new Landmark(R.string.name_d006, R.string.description_d006, R.raw.d006, 56.94716, 24.11095, 67225699, R.string.website_d006));
-        landmarks.add(new Landmark(R.string.name_d007, R.string.description_d007, R.raw.d007, 56.95156, 24.10779, 20370537, R.string.website_d007));
-        landmarks.add(new Landmark(R.string.name_d008, R.string.description_d008, R.raw.d008, 56.94966, 24.10307, 29529200, R.string.website_d008));
-        landmarks.add(new Landmark(R.string.name_d009, R.string.description_d009, R.raw.d009, 56.95886, 24.10452, 67332830, R.string.website_d008));
+        landmarks.add(new Landmark(R.string.name_d001, R.string.description_d001, R.drawable.d001, 56.95185, 24.117, 20225000, R.string.website_d001));
+        landmarks.add(new Landmark(R.string.name_d002, R.string.description_d002, R.drawable.d002, 56.94882, 24.12259, 67099763, R.string.website_d002));
+        landmarks.add(new Landmark(R.string.name_d003, R.string.description_d003, R.drawable.d003, 56.94976, 24.11024, 67224576, R.string.website_d003));
+        landmarks.add(new Landmark(R.string.name_d004, R.string.description_d004, R.drawable.d004, 56.9272, 24.16021, 67504420, R.string.website_d004));
+        landmarks.add(new Landmark(R.string.name_d005, R.string.description_d005, R.drawable.d005, 56.95108, 24.10241, 29533523, R.string.website_d005));
+        landmarks.add(new Landmark(R.string.name_d006, R.string.description_d006, R.drawable.d006, 56.94716, 24.11095, 67225699, R.string.website_d006));
+        landmarks.add(new Landmark(R.string.name_d007, R.string.description_d007, R.drawable.d007, 56.95156, 24.10779, 20370537, R.string.website_d007));
+        landmarks.add(new Landmark(R.string.name_d008, R.string.description_d008, R.drawable.d008, 56.94966, 24.10307, 29529200, R.string.website_d008));
+        landmarks.add(new Landmark(R.string.name_d009, R.string.description_d009, R.drawable.d009, 56.95886, 24.10452, 67332830, R.string.website_d008));
 
         LandmarkAdapter adapter = new LandmarkAdapter(getActivity(), landmarks, R.color.diningBackground_light, lat, lon);
 

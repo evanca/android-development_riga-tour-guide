@@ -48,14 +48,14 @@ public class SightsFragment extends Fragment {
         getLocation();
 
         final ArrayList<Landmark> landmarks = new ArrayList<>();
-        landmarks.add(new Landmark(R.string.name_s005, R.string.description_s005, R.raw.s005, 56.94901, 24.10475, 67227573, R.string.website_s005));
-        landmarks.add(new Landmark(R.string.name_s004, R.string.description_s004, R.raw.s004, 56.95753, 24.11112, 67181465, R.string.website_s004));
-        landmarks.add(new Landmark(R.string.name_s007, R.string.description_s007, R.raw.s007, 56.94754, 24.10932, 67181430, R.string.website_s007));
-        landmarks.add(new Landmark(R.string.name_s003, R.string.description_s003, R.raw.s003, 56.94712, 24.10689, 67043678, R.string.website_s003));
-        landmarks.add(new Landmark(R.string.name_s002, R.string.description_s002, R.raw.s002, 56.94355, 24.11486, 67229985, R.string.website_s002));
-        landmarks.add(new Landmark(R.string.name_s008, R.string.description_s008, R.raw.s008, 56.94835, 24.11413, 67073777, R.string.website_s008));
-        landmarks.add(new Landmark(R.string.name_s001, R.string.description_s001, R.raw.s001, 56.95939, 24.10871, 67181465, R.string.website_s001));
-        landmarks.add(new Landmark(R.string.name_s006, R.string.description_s006, R.raw.s006, 56.95149, 24.1133, 67037900, R.string.website_s006));
+        landmarks.add(new Landmark(R.string.name_s005, R.string.description_s005, R.drawable.s005, 56.94901, 24.10475, 67227573, R.string.website_s005));
+        landmarks.add(new Landmark(R.string.name_s004, R.string.description_s004, R.drawable.s004, 56.95753, 24.11112, 67181465, R.string.website_s004));
+        landmarks.add(new Landmark(R.string.name_s007, R.string.description_s007, R.drawable.s007, 56.94754, 24.10932, 67181430, R.string.website_s007));
+        landmarks.add(new Landmark(R.string.name_s003, R.string.description_s003, R.drawable.s003, 56.94712, 24.10689, 67043678, R.string.website_s003));
+        landmarks.add(new Landmark(R.string.name_s002, R.string.description_s002, R.drawable.s002, 56.94355, 24.11486, 67229985, R.string.website_s002));
+        landmarks.add(new Landmark(R.string.name_s008, R.string.description_s008, R.drawable.s008, 56.94835, 24.11413, 67073777, R.string.website_s008));
+        landmarks.add(new Landmark(R.string.name_s001, R.string.description_s001, R.drawable.s001, 56.95939, 24.10871, 67181465, R.string.website_s001));
+        landmarks.add(new Landmark(R.string.name_s006, R.string.description_s006, R.drawable.s006, 56.95149, 24.1133, 67037900, R.string.website_s006));
 
         LandmarkAdapter adapter = new LandmarkAdapter(getActivity(), landmarks, R.color.sightsBackground_light, lat, lon);
 

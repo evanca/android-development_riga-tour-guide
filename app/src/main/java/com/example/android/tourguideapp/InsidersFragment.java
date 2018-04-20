@@ -44,14 +44,14 @@ public class InsidersFragment extends Fragment {
         //TODO: Add boolean logic to show either food or sight icon
 
         final ArrayList<Landmark> landmarks = new ArrayList<>();
-        landmarks.add(new Landmark(R.string.name_i001, R.string.description_i001, R.raw.i001, 56.94848, 24.10605, 67220356, R.string.website_i001));
-        landmarks.add(new Landmark(R.string.name_i002, R.string.description_i002, R.raw.i002, 56.95832, 24.11321, 26530164, R.string.website_i002));
-        landmarks.add(new Landmark(R.string.name_i003, R.string.description_i003, R.raw.i003, 56.94316, 24.12192, 67225361, R.string.website_i003));
-        landmarks.add(new Landmark(R.string.name_i004, R.string.description_i004, R.raw.i004, 57.06536, 24.01028, 22822822, R.string.website_i004));
-        landmarks.add(new Landmark(R.string.name_i005, R.string.description_i005, R.raw.i005, 56.91925, 24.05873, 67227444, R.string.website_i005));
-        landmarks.add(new Landmark(R.string.name_i006, R.string.description_i006, R.raw.i006, 56.96962, 24.17469, 26121540, R.string.website_i006));
-        landmarks.add(new Landmark(R.string.name_i007, R.string.description_i007, R.raw.i007, 56.94323, 24.06676, 29402027, R.string.website_i007));
-        landmarks.add(new Landmark(R.string.name_i008, R.string.description_i008, R.raw.i008, 56.94844, 24.11224, 67224279, R.string.website_i008));
+        landmarks.add(new Landmark(R.string.name_i001, R.string.description_i001, R.drawable.i001, 56.94848, 24.10605, 67220356, R.string.website_i001));
+        landmarks.add(new Landmark(R.string.name_i002, R.string.description_i002, R.drawable.i002, 56.95832, 24.11321, 26530164, R.string.website_i002));
+        landmarks.add(new Landmark(R.string.name_i003, R.string.description_i003, R.drawable.i003, 56.94316, 24.12192, 67225361, R.string.website_i003));
+        landmarks.add(new Landmark(R.string.name_i004, R.string.description_i004, R.drawable.i004, 57.06536, 24.01028, 22822822, R.string.website_i004));
+        landmarks.add(new Landmark(R.string.name_i005, R.string.description_i005, R.drawable.i005, 56.91925, 24.05873, 67227444, R.string.website_i005));
+        landmarks.add(new Landmark(R.string.name_i006, R.string.description_i006, R.drawable.i006, 56.96962, 24.17469, 26121540, R.string.website_i006));
+        landmarks.add(new Landmark(R.string.name_i007, R.string.description_i007, R.drawable.i007, 56.94323, 24.06676, 29402027, R.string.website_i007));
+        landmarks.add(new Landmark(R.string.name_i008, R.string.description_i008, R.drawable.i008, 56.94844, 24.11224, 67224279, R.string.website_i008));
 
         LandmarkAdapter adapter = new LandmarkAdapter(getActivity(), landmarks, R.color.insidersBackground_light, lat, lon);
 
