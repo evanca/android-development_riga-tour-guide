@@ -6,7 +6,7 @@ GPS tested on Xiaomi Redmi Note 4 (portrait mode)
 
 ![image](https://github.com/evanca/ABND_P5_Riga-Tour-Guide/blob/master/2018-04-Android%20Emulator%20-%20Nexus_5X_API_27_5554_ABND_P5_L.jpg)
 
-![image](https://github.com/evanca/ABND_P5_Riga-Tour-Guide/blob/master/2018-04-Android%20Emulator%20-%20Nexus_5X_API_27_5554_ABND_P5_B.jpg)
+![image](https://github.com/evanca/ABND_P5_Riga-Tour-Guide/blob/master/2018-04-Android%20Emulator%20-%20Nexus_5X_API_27_5554.jpg)
 
 #### Project Overview: ##### 
 
@@ -28,6 +28,8 @@ Create a Tour Guide App which presents relevant information to a user who’s vi
 - [x] Developing a location-aware application
 - [x] Sending data to another activity
 - [x] Changing header image based on active fragment <br>
+
+[![YouTube](https://github.com/evanca/ABND_P5_Riga-Tour-Guide/blob/master/2018-04-ABND%20P5%20_Riga%20Tour%20Guide_%20-%20YouTube.jpg)](https://www.youtube.com/watch?v=9hun28nhsVA)
 
 #### Credits: ####
 
